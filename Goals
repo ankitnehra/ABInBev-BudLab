@@ -1,0 +1,10 @@
+Calculate ETc by canopy measurements and compare with ETc derived from climate conditions to find crop water stress level.
+Water stress thus obtained can be used to tell the grower that he needs to irrigate that part and can be used with some deep
+learning techniques to calculate the likelihood of a disease.
+Use the light sensor to detect any diseases already present.
+http://adlib.everysite.co.uk/resources/000/263/345/G44_HGCA_Barley_Disease_Management_Guide_2011.pdf is a good resource for 
+disease symptoms. Think about how the light sensor can be used to detect these symptoms.
+
+Stretch goal - Use a drone with mounted camera and gps to survey fields and predict yield as well as use image processing to
+detect diseases and schedule disease-spraying.
+
